@@ -14,6 +14,7 @@ Only tested on Legion Tab Y700 (2023) with ZUI 15.0.677.
 * CDD-complaint[^1] notification icon (System UI)
   - not being replaced by app icon
 * Disable Tencent virus scanner (com.zui.safecenter)
+* Allow disable Dolby Atmos for speakers (Settings, System UI)
 
 #### Configurable in launcher settings:
 
@@ -34,6 +35,7 @@ Only tested on Legion Tab Y700 (2023) with ZUI 15.0.677.
 * 原生权限对话框
 * 原生（单色）通知图标（系统界面）
 * 禁用腾讯应用安全检测（安全中心）
+* 允许禁用扬声器的杜比全景声（设置、系统界面）
 
 #### 在桌面设置中控制：
 
