@@ -55,4 +55,6 @@ Tested on:
 TB320FC:/ $ su
 - Disable some promotional content / 禁用部分推广内容
 TB320FC:/ # setprop persist.sys.lenovo_setup_privacy true
+- Disable extra DNS added by system (ZUI 17) / 禁止系统添加额外 DNS
+TB322FC:/ $ settings put global zux_wifi_dns_config_user 127.0.0.1
 ```
