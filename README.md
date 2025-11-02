@@ -16,6 +16,7 @@ Tested on:
 * Allow disable Dolby Atmos for speakers (Settings, System UI)
 * Disable taskbar
 * Disable force stop app (PRC ROM) or kill cached process (non-PRC ROM) from overview screen (app switcher)
+* Keep screen rotation after reboot
 * For PRC ROM only:
   * AOSP-style package installer 
   * AOSP-style runtime permission popup
@@ -40,6 +41,7 @@ Tested on:
 * 允许禁用扬声器的杜比全景声（设置、系统界面）
 * 禁用任务栏
 * 禁用划卡强制停止应用/清除缓存进程
+* 重启后保持屏幕旋转
 * 中国版 ROM 去“优化”：
   * 原生应用安装器
   * 原生权限对话框
