@@ -16,7 +16,7 @@ Tested on:
 * Allow disable Dolby Atmos for speakers (Settings, System UI)
 * Disable taskbar
 * Disable force stop app (PRC ROM) or kill cached process (non-PRC ROM) from overview screen (app switcher)
-* Keep screen rotation after reboot
+* Change default screen orientation to portrait
 * Disable fullscreen charge animation
 * Adjust settings split-layout condition (don't split on Y700 portrait)
 * Disable game helper activation popup
@@ -45,7 +45,7 @@ Tested on:
 * 允许禁用扬声器的杜比全景声（设置、系统界面）
 * 禁用任务栏
 * 禁用划卡强制停止应用/清除缓存进程
-* 重启后保持屏幕旋转
+* 默认屏幕方向改为竖屏
 * 禁用全屏充电动画
 * 调整设置分栏布局触发条件（Y700 竖屏不触发）
 * 禁用游戏助手激活弹窗
