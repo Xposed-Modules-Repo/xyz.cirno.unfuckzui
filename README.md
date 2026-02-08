@@ -8,18 +8,20 @@ Tested on:
   + ROW ZUI 16.0.*
 * Legion Tab Y700 Gen 4 (2025)
   + PRC ZUXOS 1.1.11.120 - 202
+  + PRC ZUXOS 1.5.10.063
 
 ## Features
 
-* Adjust notification icon size (System UI)
+* Adjust notification icon size
   - also stop PRC ROM from replacing notification icon with app icon
-* Allow disable Dolby Atmos for speakers (Settings, System UI)
+* Allow disable Dolby Atmos for speakers
 * Disable taskbar
 * Disable force stop app (PRC ROM) or kill cached process (non-PRC ROM) from overview screen (app switcher)
 * Change default screen orientation to portrait
 * Disable fullscreen charge animation
 * Adjust settings split-layout condition (don't split on Y700 portrait)
 * Disable game helper activation popup
+* Change inactive task timeout
 * For PRC ROM only:
   * AOSP-style package installer 
   * AOSP-style runtime permission popup
@@ -37,18 +39,20 @@ Tested on:
   + 全球版 ZUI 16.0.*
 * 拯救者平板 Y700 第四代 (2025)
   + 中国版 ZUXOS 1.1.11.120
+  + 中国版 ZUXOS 1.5.10.063
 
 ## 功能
 
-* 修改通知图标大小（系统界面）
+* 修改通知图标大小
   * 同时禁止中国版 ROM 替换通知图标为应用图标
-* 允许禁用扬声器的杜比全景声（设置、系统界面）
+* 允许禁用扬声器的杜比全景声
 * 禁用任务栏
 * 禁用划卡强制停止应用/清除缓存进程
 * 默认屏幕方向改为竖屏
 * 禁用全屏充电动画
 * 调整设置分栏布局触发条件（Y700 竖屏不触发）
 * 禁用游戏助手激活弹窗
+* 修改后台任务超时
 * 中国版 ROM 去“优化”：
   * 原生应用安装器
   * 原生权限对话框
